@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c05079-ce24-4eb0-85db-74636d258418" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pomodoro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomato.png" afterDir="false" />
+    <list default="true" id="90c05079-ce24-4eb0-85db-74636d258418" name="Changes" comment="use canvas widegt, add messages, build up user interface and make a count down mechanism">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710342090521</updated>
     </task>
+    <task id="LOCAL-00001" summary="use canvas widegt, add messages, build up user interface and make a count down mechanism">
+      <option name="closed" value="true" />
+      <created>1710375203695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710375203695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="use canvas widegt, add messages, build up user interface and make a count down mechanism" />
+    <option name="LAST_COMMIT_MESSAGE" value="use canvas widegt, add messages, build up user interface and make a count down mechanism" />
   </component>
 </project>
